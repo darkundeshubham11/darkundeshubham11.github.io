@@ -16,12 +16,15 @@
 🥅 2024 Goals : Learning new things and contribute more</p>
 
  <h2>🚀 Skills and Languages </h2>
+
  <p align="center">
+  <img src="https://github.com/user-attachments/assets/d50f2d8b-eb18-4e48-b702-b7899459d151" heigth="60" width="60"/>
+  <img src="https://github.com/user-attachments/assets/eb49a93f-8b23-4ce6-9c66-487946596bfe" heigth="60" width="60"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmou6evgeGnMsU4Kac3TEv60q65uqVigxib1NYMmoFw&s" heigth="60" width="60"/>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" heigth="60" width="60"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KINqrhal2CQq7f4mTGQh5mLS2QkB-WHLdxUtlzY80df5Lp_qLmki2m9WiTcXNp7lnAM&usqp=CAU" heigth="60" width="60"/>
 <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" heigth="60" width="60"/>
- <img src="https://github.com/user-attachments/assets/ae041c51-7ad9-4ad1-88f6-7e236de86187" heigth="60" width="60"/>
+<img src="https://github.com/user-attachments/assets/ae041c51-7ad9-4ad1-88f6-7e236de86187" heigth="60" width="60"/>
 <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" heigth="60" width="60"/>
 </p>
 
