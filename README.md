@@ -4,6 +4,7 @@
  <p  align="center" >
  <img src="https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_960_720.png" width='1200' heigth="150"/>
  </p>
+
  
  <h2>🙋‍♂️ About Me</h2>
  <p>🌱 I’m currently learning : Software Development Engineer in Test.
@@ -20,8 +21,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" heigth="60" width="60"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KINqrhal2CQq7f4mTGQh5mLS2QkB-WHLdxUtlzY80df5Lp_qLmki2m9WiTcXNp7lnAM&usqp=CAU" heigth="60" width="60"/>
 <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" heigth="60" width="60"/>
- <img src="![mysql-logo-69B39F7D18-seeklogo com](https://github.com/user-attachments/assets/6844cd58-2a03-491f-833f-caebe0728947)
-" heigth="60" width="60"/>
+ <img src="https://github.com/user-attachments/assets/ae041c51-7ad9-4ad1-88f6-7e236de86187" heigth="60" width="60"/>
 <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" heigth="60" width="60"/>
 </p>
 
