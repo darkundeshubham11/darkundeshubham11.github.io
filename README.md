@@ -20,6 +20,7 @@
  <p align="center">
   <img src="https://github.com/user-attachments/assets/d50f2d8b-eb18-4e48-b702-b7899459d151" heigth="60" width="60"/>
   <img src="https://github.com/user-attachments/assets/eb49a93f-8b23-4ce6-9c66-487946596bfe" heigth="60" width="60"/>
+   <img src="https://github.com/user-attachments/assets/02ab6782-b7a8-4b19-92ee-9b894c5f9086" heigth="60" width="60"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmou6evgeGnMsU4Kac3TEv60q65uqVigxib1NYMmoFw&s" heigth="60" width="60"/>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" heigth="60" width="60"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KINqrhal2CQq7f4mTGQh5mLS2QkB-WHLdxUtlzY80df5Lp_qLmki2m9WiTcXNp7lnAM&usqp=CAU" heigth="60" width="60"/>
@@ -29,13 +30,14 @@
 </p>
 
 <h2> ◽ Hobbies</h2>
-<p> * playing cricket</P>
-<p> * Traveling</P>
+<p> *  Reading Books</P>
+<p> * GYM</P>
+<p> * Exploring New Place</P>
 
 
 <h2>◽ Find Me on📱 :</h2>
- <p> [Linkdin]: https://www.linkedin.com/in/jayesh20091999/ </P>
- <p> [Twitter]: https://twitter.com/jayesh_ravindra </P>
+ <p> [Linkdin]: www.linkedin.com/in/darkunde-shubham-3a6b60114 </P>
+ <p> [GitHub]: https://github.com/darkundeshubham11 </P>
  
  
  <h2>- What i do</h2>
