@@ -37,7 +37,7 @@
 
 <h2>◽ Find Me on📱 :</h2>
 <p> [Mail]: <a href="mailto:darkundeshubham11@gmail.com">darkundeshubham11@gmail.com</a> </P>
-<p> [Contact]: <a href="tel:8856097872">8856097872</a> </P>
+<p><a href="tel:8856097872">8856097872</a></p>
  <p> [Linkdin]: www.linkedin.com/in/darkunde-shubham-3a6b60114 </P>
  <p> [GitHub]: https://github.com/darkundeshubham11 </P>
  
