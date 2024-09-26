@@ -42,7 +42,7 @@
  
  <h2>- What i do</h2>
  <p  align="center">
- <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"/>
+ <img src="https://github.com/user-attachments/assets/4c1315f6-a818-4fc0-a3b9-df154cb4c3ca"/>
  </p>
  
  <h2>◽ GitHub Stats 📊 :</h2>
