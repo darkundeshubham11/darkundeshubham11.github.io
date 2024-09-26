@@ -2,7 +2,7 @@
  <h1 align="center" style="color:"blue"">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30" height="30" />, I am Shubham Darkunde</h1>
  <h3 align="center"> "An enthusiastic Software Tester driven by excellence, integrity, and collaboration. A team player with strong interpersonal skills and effective time management abilities."</h3>
  <p  align="center" >
- <img src="https://github.com/user-attachments/assets/0d41ef9f-1b4e-4dbe-8a76-25a451fb3fd8" width='1200' heigth="150"/>
+ <img src="https://github.com/user-attachments/assets/ba212187-05f5-4085-808c-8042a223bb6b" width='1200' heigth="150"/>
  </p>
 
  
