@@ -19,16 +19,10 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmou6evgeGnMsU4Kac3TEv60q65uqVigxib1NYMmoFw&s" heigth="60" width="60"/>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" heigth="60" width="60"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KINqrhal2CQq7f4mTGQh5mLS2QkB-WHLdxUtlzY80df5Lp_qLmki2m9WiTcXNp7lnAM&usqp=CAU" heigth="60" width="60"/>
-<img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" heigth="60" width="60"/>
-<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" heigth="60" width="60"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO6t4EEo5cGPHLVjGtrTqO0xBNEdzwZP5flBdEliAD3Q&s" heigth="60" width="60"/>
-<img src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo.png" heigth="60" width="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" heigth="60" width="60"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS-zehSv5e0VE6BKGXu58Ad2-BNb5z-m1umUitz-VOmw&s" heigth="60" width="60"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0eQ2-dgasuxVRhKlrZxjfT1jDXE1XTKg292Qc98Y3w&s" heigth="60" width="60"/>
 <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" heigth="60" width="60"/>
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" heigth="60" width="60"/>
-  <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" heigth="60" width="60"/>
+ <img src="![mysql-logo-69B39F7D18-seeklogo com](https://github.com/user-attachments/assets/6844cd58-2a03-491f-833f-caebe0728947)
+" heigth="60" width="60"/>
+<img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" heigth="60" width="60"/>
 </p>
 
 <h2> ◽ Hobbies</h2>
