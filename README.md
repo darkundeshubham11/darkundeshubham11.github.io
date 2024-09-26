@@ -6,13 +6,13 @@
  </p>
  
  <h2>🙋‍♂️ About Me</h2>
- <p>🌱 I’m currently learning : Full Stack Web Development
+ <p>🌱 I’m currently learning : Software Development Engineer in Test.
 
 🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
-💬 Ask me about : Data Structures and Algorithms, JavaScript, React and MongoDb
+💬 Ask me about : Manual Testing and Automation Testing, JavaScript, Java and SQL
 
-🥅 2021 Goals : Learning new things and contribute more</p>
+🥅 2024 Goals : Learning new things and contribute more</p>
 
  <h2>🚀 Skills and Languages </h2>
  <p align="center">
